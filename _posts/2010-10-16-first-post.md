@@ -6,7 +6,7 @@ category: posts
 
 Steps required:
  * (x) Create bogus, meaningless content.
- * (&nbsp;&nbsp;) Do <del>everything</del> nothing else.
+ * (x) Do <del>everything</del> nothing else.
 
 
 {% highlight ruby %}
