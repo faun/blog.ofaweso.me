@@ -1,0 +1,4 @@
+layout : default
+server: true
+pygments: true
+paginate: 10
