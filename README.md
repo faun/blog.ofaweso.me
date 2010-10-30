@@ -1,1 +1,1 @@
-See the site here: <http://faunzy.github.com>
+See the site here: <http://faunzy.me>
