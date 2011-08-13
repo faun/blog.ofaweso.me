@@ -1,1 +1,1 @@
-See the site here: <http://faunzy.me>
+See the site here: http://blog.ofaweso.me/
